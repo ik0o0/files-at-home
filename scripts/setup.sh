@@ -10,7 +10,7 @@ sudo apt update
 sudo apt install -y nodejs npm apache2 mysql-server
 
 echo "Server configuration..."
-./scripts/config-sever.sh
+./scripts/config-server.sh
 
 echo "Backend installation..."
 ./scripts/install-backend.sh
