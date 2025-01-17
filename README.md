@@ -2,7 +2,7 @@
 
 ![Project Status](https://img.shields.io/badge/status-in%20development-yellow) ![License](https://img.shields.io/badge/license-AGPLv3-blue)
 
-## Teck Stack
+## Tech Stack
 
 This project is built using the following technologies:
 
